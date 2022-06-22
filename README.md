@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Haseeb Asghar</h1>
 <h3 align="center">A fanatical Python Django Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80">
@@ -31,9 +32,10 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=infohaseeb&show_icons=true&locale=en&layout=compact" alt="infohaseeb" /></p>
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/infohaseb"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="infohaseeb" /></a></p><br><br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=infohaseeb&show_icons=true&locale=en" alt="infohaseeb" /></p>
 
+<h3 align="left">Support:</h3>
+
+<p><a href="https://www.buymeacoffee.com/infohaseb"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="infohaseeb" /></a></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=infohaseeb&show_icons=true&locale=en" alt="infohaseeb" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=infohaseeb&show_icons=true&locale=en&layout=compact" alt="infohaseeb" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=infohaseeb&" alt="infohaseeb" /></p>
