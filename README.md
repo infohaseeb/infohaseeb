@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Haseeb Asghar</h1>
 <h3 align="center">A fanatical Python Django Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.mos.cms.futurecdn.net/9QTpESGBXa32D29J77VR3d-970-80.jpg.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=infohaseeb&label=Profile%20views&color=0e75b6&style=flat" alt="infohaseeb" /> </p>
 
