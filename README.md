@@ -10,7 +10,7 @@
 ## ☁️ About Me
 - Cloud Engineer specializing in **Microsoft Azure**
 - Backend developer with **Python & Django**
-- Expert in **cloud deployments, automation & administrative operations**
+- Expert in **cloud deployments, automation & admin operations**
 - Skilled in Linux servers and CI/CD
 - 📧 Email: **haseeb@interstolix.com**
 - 📞 Phone: **+92 313 4490790**
@@ -18,21 +18,32 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack (Single Table)
+
+<table>
+<tr>
+
+<td valign="top" width="33%">
 
 ### 🐍 Backend
 - **Python**
 - **Django**
 - **Django REST Framework**
 
+</td>
+
+<td valign="top" width="33%">
+
 ### 🗄️ Databases
 - **SQLite3**
 - **MariaDB**
 - **PostgreSQL**
 
----
+</td>
 
-## 🌩️ Cloud & DevOps
+<td valign="top" width="33%">
+
+### 🌩️ Cloud & DevOps
 - **Microsoft Azure**
 - **Microservices Architecture**
 - **Containerization**
@@ -40,3 +51,10 @@
 - **Linux Administration**
 - **Git / Version Control**
 - **CI/CD Pipelines**
+
+</td>
+
+</tr>
+</table>
+
+---
